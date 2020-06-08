@@ -1,13 +1,13 @@
 {
   "name": "e-ink-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.1.0",
+  "description": "A greyscale theme designed for use specifically with e-ink monitors.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/e-ink-syntax",
+  "repository": "https://github.com/Colin-Fredericks/e-ink-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
