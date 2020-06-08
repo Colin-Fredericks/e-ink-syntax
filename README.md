@@ -1,4 +1,4 @@
-# e-ink-syntax theme
+# E-Ink Syntax Theme for Atom
 
 I own an e-ink monitor, and the existing greyscale themes I found are not really optimized for it. My guidelines in creating this theme were:
 
