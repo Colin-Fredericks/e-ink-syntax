@@ -158,8 +158,8 @@ atom-text-editor {
     }
 
     &.syntax--bold {
-      color: @gray;
-      font-weight: bold;
+      color: @black;
+      font-weight: @heavy;
     }
 
     &.syntax--italic {
@@ -228,7 +228,8 @@ atom-text-editor {
   }
 
   &.syntax--link {
-    color: @light-gray;
+    color: @gray;
+    text-decoration: underline;
   }
 
   &.syntax--require {
@@ -252,8 +253,8 @@ atom-text-editor {
 
 .syntax--markup {
   &.syntax--bold {
-    color: @light-gray;
-    font-weight: bold;
+    color: @black;
+    font-weight: @heavy;
   }
 
   &.syntax--changed {
@@ -281,7 +282,6 @@ atom-text-editor {
 
   &.syntax--list {
     color: @dark-gray;
-    text-decoration: underline;
   }
 
   &.syntax--quote {
