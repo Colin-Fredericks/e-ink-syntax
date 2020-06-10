@@ -306,3 +306,14 @@ atom-text-editor {
 atom-text-editor[mini] .scroll-view {
   padding-left: 1px;
 }
+
+// Overwriting UI elements
+.scrollbars-visible-always atom-text-editor ::-webkit-scrollbar-thumb:vertical {
+  background-color: @dark-gray;
+}
+
+.scrollbars-visible-always
+  atom-text-editor
+  ::-webkit-scrollbar-thumb:horizontal {
+  background-color: @dark-gray;
+}
