@@ -6,7 +6,7 @@ I own an e-ink monitor, and the existing greyscale themes I found are not really
 - Avoid large swaths of grey as certain shades can flicker.
 - Meet [WCAG 2.0 AA Contrast Guidelines](https://www.w3.org/TR/WCAG/#contrast-minimum), or at least let people meet them when they adjust their own font size.
 
-I've found that this theme works well with the [One Light](https://atom.io/packages/one-light-ui) UI Theme, except that the scrollbar is too light.
+I've found that this theme works well with the [One Light](https://atom.io/packages/one-light-ui) UI Theme.
 
 My goals do **not** include looking good on any monitor that isn't e-ink. If that happens, it will be a happy accident.
 
