@@ -1,7 +1,7 @@
 {
   "name": "e-ink-syntax",
   "theme": "syntax",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A greyscale theme designed for use specifically with e-ink monitors.",
   "keywords": [
     "syntax",
