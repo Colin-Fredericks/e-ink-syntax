@@ -1,3 +1,9 @@
+## 0.2.3 - Darker things
+
+- Keywords got darker, which makes the fact that they're bold stand out better.
+- The little faint underline for bracket matching was too hard to see, so I made it 2px solid black instead.
+- Having all strings as light gray was giving me issues. They're now mid-gray.
+
 ## 0.2.2 - Darker scroll thumb
 
 - The scroll thumb was too faint to see, so now it's dark gray.
